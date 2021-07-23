@@ -20,7 +20,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@expo/webpack-config": "^0.13.1",
     "@types/leaflet": "^1.7.4",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
