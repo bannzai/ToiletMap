@@ -13,7 +13,8 @@
     "leaflet": "^1.7.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-leaflet": "^3.2.0",
+    "react-leaflet": ">=3.1.0 <3.2.0 || ^3.2.1",
+    "@react-leaflet/core": ">=1.0.0 <1.1.0 || ^1.1.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
     "react-native-web": "~0.13.12"
   },
